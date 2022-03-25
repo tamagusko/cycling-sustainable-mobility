@@ -8,8 +8,8 @@ Description
 
 ## Team:
 
-[MEMBER](https://github.com/MEMBER) (frontend dev)
-[MEMBER](https://github.com/MEMBER) (speaker)
+[Ayse Nur Apaydin](https://github.com/MEMBER) (role)  
+[Danny](https://github.com/MEMBER) (role)  
 [Tiago Tamagusko](https://github.com/tamagusko) (backend dev/transportation specialist)
 
 ## Concept
